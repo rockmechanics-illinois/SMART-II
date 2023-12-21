@@ -1,5 +1,5 @@
 # SMART-II
-Data for rock properties in IBDP and ML codes  
+Data for rock properties in IBDP and ML codes.
 
 In order to run the notebooks, download the min_log csv data file.   
 
