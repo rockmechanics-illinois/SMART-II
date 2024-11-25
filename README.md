@@ -23,9 +23,8 @@ Contains early notebooks used for exploratory analysis and initial modeling:
   - `Input Data`: Contains raw input data files.
   - `Training and Testing data`: Contains preprocessed datasets for training and testing models.
 - **Model Weights**:
-  - `best_rf_model.joblib`: Saved weights for Random Forest.
-  - `best_xgb_model.joblib`: Saved weights for XGBoost.
-  - `best1_xgb_model.joblib`: Alternative XGBoost model weights.
+  - `best_xgb_model.joblib`: Saved weights for XGBoost for P wave velocity prediction.
+  - `best1_xgb_model.joblib`: Saved XGBoost model weights for S wave velocity prediction.
 - **Outputs**:
   - `Neural Network Plots`: Contains plots generated during Neural Network training.
   - `Random Forest Plots`: Contains plots generated during Random Forest training.
