@@ -54,11 +54,11 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/geomechanics-summary.git
+   git clone https://github.com/yourusername/SMART-II.git
    ```
 2. Navigate to the repository directory:
    ```bash
-   cd geomechanics-summary
+   cd SMART-II
    ```
 3. Install dependencies:
    ```bash
